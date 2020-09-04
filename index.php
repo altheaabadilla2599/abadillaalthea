@@ -11,10 +11,10 @@
 <div class="topnav"> 
  <div class="topnav-centered"> 
 
-  <a  href="home.php">HOME</a>
-  <a href="home.php">ABOUT US</a>
-  <a href="home.php">PRODUCTS</a>
-  <a href="home.php">CONTACT US</a>
+  <a  href="index.php">HOME</a>
+  <a href="index.php">ABOUT US</a>
+  <a href="index.php">PRODUCTS</a>
+  <a href="index.php">CONTACT US</a>
   </div>
   </div>
 
