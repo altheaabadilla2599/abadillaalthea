@@ -60,9 +60,7 @@
 <br>
 <br>
 
-<img id="myImg" src="jeloo.jpg" style="width:200%;max-width:400px">
-<img id="myImg" src="jeloooo.jpg"  style="width:200%;max-width:400px">
-<img id="myImg" src="jelooo.jpg"  style="width:200%;max-width:400px">
+
 
 
 
